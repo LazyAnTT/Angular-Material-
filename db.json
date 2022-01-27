@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "date": "2022-01-02T22:00:00.000Z",
+      "status": "Brand New",
+      "price": 1,
+      "comment": "asd12e",
+      "id": 4
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "date": "2022-01-12T22:00:00.000Z",
+      "status": "Used",
+      "price": 12,
+      "comment": "nom21",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
